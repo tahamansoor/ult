@@ -1,4 +1,4 @@
-# 🛰️ UTL (UDP Like TCP) — Proof of Concept
+# UTL (UDP Like TCP) — Proof of Concept
 
 > **This is a Proof of Concept.**  
 > It is not production-ready and is meant solely to demonstrate core ideas of building a reliable messaging system on top of UDP.
