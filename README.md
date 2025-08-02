@@ -49,6 +49,8 @@ node client.js
 
 ##### The client creates a JSON payload, splits it into characters, and sends them one-by-one to the server.
 
+---
+
 
 ### Packet Structure
 
