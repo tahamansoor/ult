@@ -1,13 +1,13 @@
-# UTL (UDP Like TCP) — Proof of Concept
+# ULT (UDP Like TCP) — Proof of Concept
 
 > **This is a Proof of Concept.**  
 > It is not production-ready and is meant solely to demonstrate core ideas of building a reliable messaging system on top of UDP.
 
 ---
 
-## What is UTL?
+## What is ULT?
 
-**UTL (UDP Like TCP)** is an experimental protocol that brings TCP-like reliability to UDP-based communication.
+**ULT (UDP Like TCP)** is an experimental protocol that brings TCP-like reliability to UDP-based communication.
 
 The goal is to simulate:
 - Ordered delivery  
@@ -78,7 +78,7 @@ Each UDP message contains an array in string form:
 
 UDP is fast but unreliable. TCP is reliable but heavy.
 
-UTL explores the space in between AND that gives us:
+ULT explores the space in between AND that gives us:
 
 - The speed of UDP
 
